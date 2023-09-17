@@ -1,5 +1,5 @@
 # Springboot-Kafka-Wikimedia-Data-Processing
-Real world Wikimedia Data Processing with Spring Boot,Kafka and storing the data in MYSQL database.  
+Real-time Wikimedia Data Processing with Spring Boot,Kafka and storing the data in MYSQL database.  
 
 <img width="579" alt="image" src="https://github.com/kalyani33/Springboot-Kafka-Wikimedia-Data-Processing/assets/37569003/8d445816-5961-44b5-8c19-f2f05b1c9d08"><br/>
 
